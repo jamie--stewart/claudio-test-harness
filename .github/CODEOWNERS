@@ -1,0 +1,9 @@
+# CODEOWNERS - Designates required reviewers for pull requests
+#
+# This file ensures that bot approvals don't satisfy merge requirements.
+# Only codeowners can approve PRs, and bots cannot be codeowners.
+#
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default: require human review for all files
+* @jamie--stewart
